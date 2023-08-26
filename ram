@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Obtém informações de uso de memória
+free -h
+
+# Exibe as informações
+echo "uso de memoria"
+
